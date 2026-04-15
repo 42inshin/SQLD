@@ -30,3 +30,7 @@ SQLD(데이터베이스 개발자(SQL Developer)) 자격증 취득을 위한 스
   docs: week-02 학습 내용 정리 (홍길동)
   ```
 4. PR이 승인되면 main 브랜치에 병합됩니다.
+
+## ⭐️ 결과
+
+<img width="500" height="242" alt="image" src="https://github.com/user-attachments/assets/390f93e0-4a9f-41bd-9fa1-8ef6e054654a" />
